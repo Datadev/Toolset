@@ -1,4 +1,4 @@
-package br.com.datadev.java.util.swing.document;
+package br.com.datadev.toolset.swing.document;
 
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
